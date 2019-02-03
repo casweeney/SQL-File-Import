@@ -8,4 +8,5 @@ Importing SQL File(DB table and its content) to database with PHP. You don't hav
 4. Try upload an file.sql<br>
 5. That's it<br>
 
-# This repo is open to contributions, feel free to make corrections and make it better.
+### Note:<br>
+#### This repo is open to contributions, feel free to make corrections and make it better.
